@@ -98,10 +98,6 @@ const skillsSection = {
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
